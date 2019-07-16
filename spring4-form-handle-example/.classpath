@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/mkyong/form/web/|com/mkyong/form/config/servlet3/" kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/java/com/mkyong/form/config/servlet3"/>
+	<classpathentry kind="src" path="src/main/java/com/mkyong/form/web"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
